@@ -18,3 +18,12 @@
 | add、insert | 增  |    |
 
 
+
+
+
+
+----
+
+# 其他中文编程的项目、资源
+
+https://github.com/program-in-chinese/overview
