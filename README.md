@@ -12,9 +12,9 @@
 
 | 英文         | 中文 | 说明 |
 |------------|----|----|
-| select     | 查  |    |
+| select、get     | 查  |    |
 | delete     | 删  |    |
-| update     | 改  |    |
+| update、change     | 改  |    |
 | add、insert | 增  |    |
 
 
