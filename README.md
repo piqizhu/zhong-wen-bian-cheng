@@ -27,6 +27,12 @@
 
 ----
 
+# 编辑器插件
+让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,DevEco等 )支持中文标识符以拼音输入方式完成代码补全    
+https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper 
+
+
+
 # 其他中文编程的项目、资源
 
 https://github.com/program-in-chinese/overview
